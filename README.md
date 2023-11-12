@@ -1,4 +1,6 @@
-# Learning How to use React Context | React + TypeScript + Vite
+# Learning React Context | React + TypeScript + Vite
+
+![App Preview](https://github.com/burmesepotato/react-context-learning-01/blob/main/public/react-context-learning-01.png?raw=true)
 
 ## Resources
 
