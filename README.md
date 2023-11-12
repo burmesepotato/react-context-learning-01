@@ -1,5 +1,24 @@
-# React + TypeScript + Vite
+# Learning How to use React Context | React + TypeScript + Vite
 
+## Resources
+
+**Tutorial by Cosden Solutions:** <br>
+https://youtu.be/HYKDUF8X3qI
+
+
+**Project Structure Reference:** <br>
+https://github.com/taniarascia/takenote
+
+
+**How to Setup Alias:** <br>
+https://dev.to/tilly/aliasing-in-vite-w-typescript-1lfo
+
+
+**Others:** <br>
+* TailwindCss not working was due to not having initialized `postcss.config.js` [See [discussion on Stackoverflow](https://stackoverflow.com/questions/74987006/tailwindcss-not-working-with-vite-react)]
+
+
+## About Project Setup
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
